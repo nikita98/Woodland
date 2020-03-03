@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Bebas Neue Book';
+    src: url('BebasNeueBook.eot');
+    src: url('BebasNeueBook.eot?#iefix') format('embedded-opentype'),
+        url('BebasNeueBook.woff2') format('woff2'),
+        url('BebasNeueBook.woff') format('woff'),
+        url('BebasNeueBook.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('Montserrat-Regular.eot');
+    src: url('Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Montserrat-Regular.woff2') format('woff2'),
+        url('Montserrat-Regular.woff') format('woff'),
+        url('Montserrat-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('Montserrat-Medium.eot');
+  src: url('Montserrat-Medium.eot?#iefix') format('embedded-opentype'),
+      url('Montserrat-Medium.woff2') format('woff2'),
+      url('Montserrat-Medium.woff') format('woff'),
+      url('Montserrat-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('BebasNeueRegular.eot');
+    src: url('BebasNeueRegular.eot?#iefix') format('embedded-opentype'),
+        url('BebasNeueRegular.woff2') format('woff2'),
+        url('BebasNeueRegular.woff') format('woff'),
+        url('BebasNeueRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+
